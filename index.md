@@ -1,3 +1,4 @@
+<title>John Shumway's Homepage</title>
 ## Welcome to my local project page!
 ### About Me:
 

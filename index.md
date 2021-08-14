@@ -1,9 +1,4 @@
 # Welcome to John Shumway's Local Projects.
-
-You can use the [editor on GitHub](https://github.com/JSdata91/JSdata91.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### About Me:
 
 I am a expierenced software developer who has worked with various data-based programs, and looking to branch out into data science. I have been in the software development field for 5 years.

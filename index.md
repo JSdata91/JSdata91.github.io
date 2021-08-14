@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to John Shumway's Local Projects.
 
 You can use the [editor on GitHub](https://github.com/JSdata91/JSdata91.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a expierenced software developer who has worked with various data-based programs, and looking to branch out into data science. I have been in the software development field for 5 years.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Project: DataSci Python
+The DataSci Python Project is the capstone project built during the SNHU Computer Science program. In 6 weeks, I built a Python data mining program and a simple database from scratch. For this project, I used a sample school data showing student's GPA and teacher pay information. The data mining program uses 'modules' that I built to generate different graphs that show bar charts, Pie charts, and scatterplots. This module system can be improved upon to easily add in new data function for more complicated data mining.
 
-1. Numbered
-2. List
+[Link](url) 
 
-**Bold** and _Italic_ and `Code` text
+![Image](src) ![Image](src) ![Image](src)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JSdata91/JSdata91.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can reach out to me at jshumway2011@gmail.com

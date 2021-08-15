@@ -3,7 +3,7 @@
 ## Welcome to my local project page!
 ### About Me:
 
-I am a expierenced software developer who has worked with various data-based programs, and looking to branch out into data science. I have been in the software development field for 5 years.
+I am an experienced software developer who has worked with various data-based programs and tools. I've studied computer science and software development for 8 years, and worked in the development industry for 5 years.  I am proficient in .Net, JAVA, Batch/Powershell and Python coding. I also have experience with Databases such as MS SQL, MySQL and SQLite in both Windows and Linux OS.  While I have an all-around knowledge of software development to handle any kind of task, I have been focusing on data analytics and data science and plan to specialize into that field.
 
 
 

@@ -12,7 +12,7 @@ The DataSci Python Project is the capstone project built during the SNHU Compute
 
 [DataSci](https://github.com/JSdata91/JSdata91.github.io/tree/main/DataSci/src) 
 
-![Image](src) ![Image](src) ![Image](src)
+![Image](Images/DS_ImageBanner.JPG)
 
 
 ### Contact
